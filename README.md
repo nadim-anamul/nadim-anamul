@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anamaul Hasan Nadim</h1>
 <h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **devOps, docker, nodejs, nextjs**
+- 🌱 I’m currently working with **Javascript, Node js, Express, React, PHP, Laravel, MongoDB, SQL, DevOps, Docker**
 
-- 👯 I’m looking to collaborate on **javascript, node, react, laravel projects**
+- 👯 I’m looking to collaborate on **javascript, node, react, Laravel projects**
 
 - 💬 Ask me about **react, devOps, javascript, php**
-
+ql
 - 📫 How to reach me **nadim.csm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
